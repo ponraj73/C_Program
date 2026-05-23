@@ -217,5 +217,5 @@ gcc file.o -o output
 ### Simple Command
 
 ```bash id="m7lv2v"
-gcc --save-temps program -o program
+gcc --save-temps program.c -o program
 ```
